@@ -184,7 +184,7 @@
         </table>
         </div>
 	</div>
-    <!--  <div class="sbody">
+<div class="sbody">
         <table class="alerttable" style="margin-top: 2px;">
             <tbody>
                 <tr>
@@ -208,7 +208,7 @@
                     </td>
                 </tr>
                 </tbody>
-        </table>-->
+        </table>
  <div> <br></br> </div>
  <div id="provinceDiv" align="center">
  	<div id="proDic">
